@@ -1,0 +1,18 @@
+{
+    "title": "Sample NFT",
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "Sample NFT 1"
+        },
+        "description": {
+            "type": "string",
+            "description": "Token 1 of Sample NFT Collection"
+        },
+        "image": {
+            "type": "string",
+            "description": "https://"
+        }
+    }
+}

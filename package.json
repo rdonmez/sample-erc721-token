@@ -1,0 +1,27 @@
+{
+  "name": "sample-erc721-token",
+  "version": "1.0.0",
+  "description": "An example of ERC721 token standard. [EIP721] (https://eips.ethereum.org/EIPS/eip-721)",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rdonmez/sample-erc721-token.git"
+  },
+  "author": "Ramazan Dönmez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rdonmez/sample-erc721-token/issues"
+  },
+  "homepage": "https://github.com/rdonmez/sample-erc721-token#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.3",
+    "ethers": "^5.7.0",
+    "hardhat": "^2.11.0"
+  }
+}
